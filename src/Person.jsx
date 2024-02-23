@@ -1,3 +1,5 @@
+
+
 const Person = ({image, name, age}) => {
   return (
     <article className='person'>
